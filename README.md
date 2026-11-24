@@ -24,4 +24,4 @@ He also has a host of things on [Codepen](https://codepen.io/meodai) - e.g.:
 
 ## Demo
 
-https://zzalsjr8.github.io/projects/colour-explorers/
+https://static-rabbit.github.io/projects/colour-explorers/
